@@ -1,10 +1,10 @@
 # MUD
 A simple MUD game.
 
->Just downlaod files, and "make "it.<br>
->To run it, run "make run".<br>
->To clean temporary files, run "make clean".<br>
->To uninstall exuatable file, just run "make uninstall".<br>
+>1. Just downlaod files, and "make "it.<br>
+>2. To run it, run "make run".<br>
+>3. To clean temporary files, run "make clean".<br>
+>4. To uninstall exuatable file, just run "make uninstall".<br>
 
 Some trouble may be caused old compile or C++ environment.
 
